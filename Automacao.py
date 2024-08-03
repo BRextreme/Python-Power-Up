@@ -31,7 +31,7 @@ pyautogui.click(x=702, y=583)
 
 import pandas
 
-tabela = pandas.read_csv("C:\\Users\\gabry\\Downloads\\Jornada Python\\Power Up\\produtos.csv")
+tabela = pandas.read_csv("produtos.csv")
 
 print(tabela)
 
